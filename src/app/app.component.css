@@ -10,4 +10,6 @@ p {
 }
 .btn-danger {
   margin: 3px;
+  color: blue;
+  background-color: white;
 }
