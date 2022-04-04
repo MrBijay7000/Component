@@ -44,4 +44,4 @@ export class CockpitComponent implements OnInit {
       serverContent: this.serverContentInput.nativeElement.value,
     });
   }
-}
+}// YESSSS
